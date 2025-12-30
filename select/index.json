@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "PARALLEL",
+  "base_artist": "Liza",
+  "createdAt": "2025-12-30T14:50:59.762216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Parallel Line",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_Parallel_Line_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Femme Parallel",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/02_La_Femme_Parallel_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Parallel Life (JUJU Drum & Bass remix)",
+      "artist": "The Starseeds",
+      "has_synced": false,
+      "path": "select/03_Parallel_Life_(JUJU_Drum_&_Bass_remix)_The_Starseeds.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Parallel Lives",
+      "artist": "Housse de Racket",
+      "has_synced": true,
+      "path": "select/04_Parallel_Lives_Housse_de_Racket.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Parallel Lines",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/05_Parallel_Lines_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Parallel Lives",
+      "artist": "Róisín Murphy",
+      "has_synced": true,
+      "path": "select/06_Parallel_Lives_Róisín_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Parallel Lines",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/07_Parallel_Lines_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Parallel Lines",
+      "artist": "Dear and the Headlights",
+      "has_synced": true,
+      "path": "select/08_Parallel_Lines_Dear_and_the_Headlights.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PARALLEL",
+      "artist": "Liza, 7",
+      "has_synced": false,
+      "path": "select/pl_01_PARALLEL_Liza,_7.txt"
+    }
+  ]
+}
